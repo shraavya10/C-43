@@ -1,2 +1,2 @@
-# C-43
-I created my own game: catepillar hunting game.
+# p5.play-boilerplate
+Boiler plate for p5.play
